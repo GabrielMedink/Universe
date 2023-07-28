@@ -1,5 +1,5 @@
 # Celestial Bodies Database :stars:
-### This database contains interesting tables about the space. :rocket: Have fun!!
+### This database contains interesting tables about the space. :rocket:
 
 ## Galaxies :milky_way:
 ```
